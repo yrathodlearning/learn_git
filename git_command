@@ -1,1 +1,2 @@
-
+git config --global user.name "yrathodlearning"
+git config --global user.email "yrathodlearning@gmail.com"
